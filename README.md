@@ -1,2 +1,2 @@
 # HelloWorldProject
-My first Microverse Helloworld project
+My First Microverse Helloworld project
