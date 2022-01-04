@@ -1,9 +1,5 @@
-@charset "UTF-8";
-/*!
- * CSS Style for index.htm file
- */
- h1 {
-    color: #212529;
-  }
-  
-  /*# sourceMappingURL=microverse.com */
+h1 {
+  text-align: center;
+  color: darkblue;
+  background-color: lightcoral;
+}
